@@ -1,0 +1,10 @@
+{
+	"shelf_title" = "URL Tester";
+	type = html;
+	"content_keyfile" = "index.html";
+	"property_support_fullscreen" = YES;
+	"property_supported_orientations" = B;
+	"property_feature_webGLEnabled" = YES;
+	"content_tags" = "tag1,foo,bar";
+	"property_html_showBackButton" = YES;
+}
